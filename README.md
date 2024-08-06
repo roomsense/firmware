@@ -1,1 +1,1 @@
-# firmware
+This repository contains binary firmware images for RoomSense IQ and ClimateSense. The firmware updates ensure that devices operate with the latest features, security patches, and performance improvements.
